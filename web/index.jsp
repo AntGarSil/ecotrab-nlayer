@@ -33,9 +33,9 @@
     </head>
 
     <body style='background-color:#D3D3D3'>
-
-<h1 style='margin-left:10px; margin-bottom:10px'> Medias tasa ocupación por año</h1>
-
+        <header>
+            <h1 style='margin-left:10px; margin-bottom:10px'> Medias tasa ocupación por año</h1>
+        </header>
 
  <div id="chart1" style='margin-left: 250px; width:800px; height:400px'></div>
     </body>
