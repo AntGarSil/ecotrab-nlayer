@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Ecotrab Graph</title>
         <script type="text/javascript" src="JS/jquery.min.js"></script>
-        
+        <script type="text/javascript" src="JS/script-common.js"></script>
         <script type="text/javascript" src="JS/jqplot.min.js"></script>
         <script type="text/javascript" src="JS/jqplot.barRenderer.min.js"></script>
         <script type="text/javascript" src="JS/jqplot.categoryAxisRenderer.min.js"></script>
@@ -24,7 +24,9 @@
         <script type="text/javascript" src="JS/jqplot.highlighter.min.js"></script>
         <script type="text/javascript" src="JS/jqplot.cursor.min.js"></script>
         
+        
         <script type="text/javascript" src="JS/jqueryAjaxExample.js"></script>
+        
         
         <link type="text/css" href="CSS/smoothness/jquery-ui-1.8.22.custom.css" rel="stylesheet" />	
 	<script type="text/javascript" src="JS/jquery-ui-1.8.22.custom.min.js"></script>

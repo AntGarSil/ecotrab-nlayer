@@ -5,7 +5,7 @@
 $(document).ready(function() {
 
     $.ajax({
-        url: 'http://localhost:8080/ecotrab-final/resources/datalayer.entities.epatasasocup?',
+        url: EpaTasasOcupURL,        
         type: 'GET',
         dataType: 'json',
         data: null,
